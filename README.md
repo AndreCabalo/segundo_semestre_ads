@@ -316,30 +316,30 @@
 
 ### Instalação do Android Studio e JDK do Java
 
-    1. Baixe o Android Studio em [Studio Android](link).
-    2. Baixe e instale o JDK do Java em [Oracle JDK](link).
-    3. Após o download de ambos, instale primeiro o JDK do Java.
-    4. Em seguida, instale o Android Studio, mantendo a opção de Android Virtual Device também.
-    5. Pronto, agora você terá o Android Studio rodando em sua máquina.
+1. Baixe o Android Studio em [Studio Android](link).
+2. Baixe e instale o JDK do Java em [Oracle JDK](link).
+3. Após o download de ambos, instale primeiro o JDK do Java.
+4. Em seguida, instale o Android Studio, mantendo a opção de Android Virtual Device também.
+5. Pronto, agora você terá o Android Studio rodando em sua máquina.
 
 ### Criando o primeiro APP
 
-    - Abra o Android Studio.
-    - Crie um novo projeto selecionando "New Project".
-    - Escolha um template vazio (empty) para entender o sistema do zero.
-    - Recomenda-se usar o nome do domínio da empresa no pacote, por exemplo: "br.com.empresa.nomeapp".
-    - Defina a versão mínima do Android (Minimum SDK), considerando a compatibilidade com os dispositivos atuais.
-    - Após o carregamento do Gradle, a estrutura do projeto será exibida.
+- Abra o Android Studio.
+- Crie um novo projeto selecionando "New Project".
+- Escolha um template vazio (empty) para entender o sistema do zero.
+- Recomenda-se usar o nome do domínio da empresa no pacote, por exemplo: "br.com.empresa.nomeapp".
+- Defina a versão mínima do Android (Minimum SDK), considerando a compatibilidade com os dispositivos atuais.
+- Após o carregamento do Gradle, a estrutura do projeto será exibida.
 
 ### Adicionando Devices no Android Studio
 
-    - Clique em "Device Manager".
-    - Adicione um novo dispositivo.
-    - Selecione o modelo desejado e o sistema operacional do Android.
-    - Após a criação, selecione o dispositivo desejado e execute o app.
+- Clique em "Device Manager".
+- Adicione um novo dispositivo.
+- Selecione o modelo desejado e o sistema operacional do Android.
+- Após a criação, selecione o dispositivo desejado e execute o app.
 
 ### Executar projeto em dispositivo físico via USB
 
-    - Habilite a opção "Fontes Desconhecidas" e "Depuração USB" nas configurações do aparelho.
-    - Em dispositivos com Android 3.2 ou superior, habilite as "Opções de desenvolvedor" seguindo as instruções específicas.
+- Habilite a opção "Fontes Desconhecidas" e "Depuração USB" nas configurações do aparelho.
+- Em dispositivos com Android 3.2 ou superior, habilite as "Opções de desenvolvedor" seguindo as instruções específicas.
 
