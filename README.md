@@ -316,8 +316,8 @@
 
 ### Instalação do Android Studio e JDK do Java
 
-1. Baixe o Android Studio em [Studio Android](link).
-2. Baixe e instale o JDK do Java em [Oracle JDK](link).
+1. Baixe o Android Studio em [Studio Android](https://developer.android.com/studio).
+2. Baixe e instale o JDK do Java em [Oracle JDK](https://www.oracle.com/br/java/technologies/downloads/).
 3. Após o download de ambos, instale primeiro o JDK do Java.
 4. Em seguida, instale o Android Studio, mantendo a opção de Android Virtual Device também.
 5. Pronto, agora você terá o Android Studio rodando em sua máquina.
