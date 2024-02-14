@@ -7,69 +7,69 @@
 
 ## Cidades Inteligentes
 
-    1. Introdução:
+1. Introdução:
 
-        Definição de cidade inteligente
-        Importância da sustentabilidade e consciência na participação na cidade
+    Definição de cidade inteligente
+    Importância da sustentabilidade e consciência na participação na cidade
 
-    2. Componentes de uma Cidade Inteligente (Universidade de Viena, 2007):
+2. Componentes de uma Cidade Inteligente (Universidade de Viena, 2007):
 
-        Smart People
-        Smart Living
-        Smart Mobility
-        Smart Environment
-        Smart Governance
-        Smart Economy
+    Smart People
+    Smart Living
+    Smart Mobility
+    Smart Environment
+    Smart Governance
+    Smart Economy
 
-    3. Exemplos de Melhores Práticas:
+3. Exemplos de Melhores Práticas:
 
-        Singapura: Independência em energia e água, independência política e econômica, pioneira em cidades inteligentes.
-        Medellín
-        Melbourne
+    Singapura: Independência em energia e água, independência política e econômica, pioneira em cidades inteligentes.
+    Medellín
+    Melbourne
 
-    4. Smart People:
+4. Smart People:
 
-        Educação de qualidade
-        Inclusão
-        Diversidade
-        Maior expectativa de vida
+    Educação de qualidade
+    Inclusão
+    Diversidade
+    Maior expectativa de vida
 
-    5. Smart Economy:
+5. Smart Economy:
 
-        Flexibilidade no mercado de trabalho
-        Integração internacional
-        Espírito de inovação
-        Empreendedorismo
-        Produtividade
-        Transformação econômica
+    Flexibilidade no mercado de trabalho
+    Integração internacional
+    Espírito de inovação
+    Empreendedorismo
+    Produtividade
+    Transformação econômica
 
-    6. Smart Environment:
+6. Smart Environment:
 
-        Proteção ambiental
-        Administração sustentável de recursos
-        Qualidade do ar
+    Proteção ambiental
+    Administração sustentável de recursos
+    Qualidade do ar
 
-    7. Smart Governance:
+7. Smart Governance:
 
-        Eficiência e transparência na administração
-        Serviços públicos com preocupação social
-        Perspectiva e estratégia políticas
+    Eficiência e transparência na administração
+    Serviços públicos com preocupação social
+    Perspectiva e estratégia políticas
 
-    8. Smart Living:
+8. Smart Living:
 
-        Opções de lazer e culturais
-        Acesso à saúde
-        Segurança
-        Qualidade habitacional
-        Acesso à educação de qualidade
-        Atrações turísticas
+    Opções de lazer e culturais
+    Acesso à saúde
+    Segurança
+    Qualidade habitacional
+    Acesso à educação de qualidade
+    Atrações turísticas
 
-    9. Smart Mobility:
+9. Smart Mobility:
 
-        Transporte público acessível e de qualidade
-        Acessibilidade
-        Infraestrutura baseada em Tecnologia da Informação e Comunicação
-        Sustentabilidade no sistema de transporte
+    Transporte público acessível e de qualidade
+    Acessibilidade
+    Infraestrutura baseada em Tecnologia da Informação e Comunicação
+    Sustentabilidade no sistema de transporte
 
 
 ## Um mundo de oportunidades
